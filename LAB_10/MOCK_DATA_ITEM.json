@@ -1,0 +1,10 @@
+[{"userId":1,"name":"Sobe - Cranberry Grapefruit","category":"Sobe","supplier":"Pacocha-Crooks","quantity":2,"price":75.41},
+{"userId":1,"name":"Juice - Cranberry, 341 Ml","category":"Juice","supplier":"Rippin-Klocko","quantity":25,"price":34.41},
+{"userId":1,"name":"Cheese - Le Cheve Noir","category":"Cheese","supplier":"Hilpert-Stracke","quantity":41,"price":47.51},
+{"userId":4,"name":"Coffee - Hazelnut Cream","category":"Coffee","supplier":"Dach-Hayes","quantity":48,"price":21.47},
+{"userId":3,"name":"Egg - Salad Premix","category":"Egg","supplier":"Price, Wehner and O'Keefe","quantity":45,"price":60.89},
+{"userId":2,"name":"Wine - Periguita Fonseca","category":"Wine","supplier":"Mohr-Kuhlman","quantity":32,"price":69.08},
+{"userId":1,"name":"Pastry - Mini French Pastries","category":"Pastry","supplier":"Nitzsche Group","quantity":83,"price":51.33},
+{"userId":3,"name":"Zucchini - Mini, Green","category":"Zucchini","supplier":"Bruen, Konopelski and Rohan","quantity":2,"price":73.55},
+{"userId":2,"name":"Bread - Triangle White","category":"Bread","supplier":"Kemmer-Ritchie","quantity":46,"price":44.56},
+{"userId":4,"name":"Cheese - Blue","category":"Cheese","supplier":"Zemlak, Zieme and Stoltenberg","quantity":48,"price":23.86}]

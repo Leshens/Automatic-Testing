@@ -1,0 +1,44 @@
+[
+  {
+    "userId": 1,
+    "name": "Frytki",
+    "category": "Dodatki",
+    "price": 20.0
+  },
+  {
+    "userId": 1,
+    "name": "Pizza",
+    "category": "Glowne",
+    "price": 40.0
+  },
+  {
+    "userId": 1,
+    "name": "Spaghetti",
+    "category": "Glowne",
+    "price": 30.0
+  },
+  {
+    "userId": 1,
+    "name": "Lazagna",
+    "category": "Glowne",
+    "price": 35.0
+  },
+  {
+    "userId": 1,
+    "name": "Woda",
+    "category": "Napoje",
+    "price": 2.5
+  },
+  {
+    "userId": 1,
+    "name": "Pepsi",
+    "category": "Napoje",
+    "price": 5.0
+  },
+  {
+    "userId": 1,
+    "name": "Sok",
+    "category": "Napoje",
+    "price": 4.0
+  }
+]
